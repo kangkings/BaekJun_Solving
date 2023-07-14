@@ -1,0 +1,9 @@
+###컨벤션###
+build
+public
+.idea
+*.iml
+.gradle
+
+###추가###
+out

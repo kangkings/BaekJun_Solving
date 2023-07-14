@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f02ee839-a138-4d2c-a855-19ee8f121be8" name="Changes" comment="" />
+    <list default="true" id="f02ee839-a138-4d2c-a855-19ee8f121be8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/dlflq/IdeaProjects/Algorithm",
+    "last_opened_file_path": "C:/Users/dlflq/IdeaProjects/Algorithm/src/Step3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,15 +50,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dlflq\IdeaProjects\Algorithm\src\Step3" />
       <recent name="C:\Users\dlflq\IdeaProjects\Algorithm" />
       <recent name="C:\Users\dlflq\IdeaProjects\Algorithm\src\Step2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Step3.Problem8" />
+      <recent name="Step3.Problem7" />
       <recent name="Step3.Problem6" />
       <recent name="Step3.Problem5" />
       <recent name="Step3.Problem4" />
-      <recent name="Step3.Problem3" />
-      <recent name="Step3.Problem2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,7 +76,10 @@
       <workItem from="1689079237249" duration="6584000" />
       <workItem from="1689135582826" duration="62000" />
       <workItem from="1689168681612" duration="5099000" />
-      <workItem from="1689173794528" duration="217000" />
+      <workItem from="1689173794528" duration="2999000" />
+      <workItem from="1689208284587" duration="654000" />
+      <workItem from="1689241229052" duration="713000" />
+      <workItem from="1689291071688" duration="1922000" />
     </task>
     <servers />
   </component>
