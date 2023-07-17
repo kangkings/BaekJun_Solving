@@ -1,5 +1,6 @@
 package Step4.Problem7;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Prob7 {
